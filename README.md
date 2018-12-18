@@ -1,5 +1,2 @@
 # Repo2
 
-SUSA
-LACHU
-123
